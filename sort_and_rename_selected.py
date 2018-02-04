@@ -24,8 +24,9 @@ bl_info = {
     "version": (1, 0, 0),
     "blender": (2, 78, 0),
     "location": "View3D > Tools Panel > Tools Tab",
-    "warning": "",
     "description": "Sort selected objects by location and rename them",
+    'wiki_url': 'https://github.com/agapas/sort-and-rename-selected#readme',
+    "warning": "",
     "category": "Object",
 }
 

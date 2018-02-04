@@ -2,10 +2,11 @@
 Blender addon for sorting and renaming selected objects.
 
 ### Features
-An example of objects (with Cubes in names) in the scene with random order:
+An example of objects - with 'Cube' in names, located in the scene in random order:
 <img src="https://raw.githubusercontent.com/agapas/sort-and-rename-selected/master/images/image1.png" width="1000" height="380"/>
 
-An example result - cubes are renamed and sorted by location:
+An example result - cubes are renamed (with given 'Obj' in names)
+and the counting numbers in names are sorted by location:
 <img src="https://raw.githubusercontent.com/agapas/sort-and-rename-selected/master/images/image2.png" width="1000" height="380"/>
 
 ### Installing
